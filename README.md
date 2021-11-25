@@ -1,12 +1,3 @@
-summary: Introduction to Algorithm
-id: intro_to_algo
-categories: web-development
-tags: ftw-online
-status: Drafted
-authors: Dat
-Feedback
-Link: https://www.coderschool.vn
-
 ## An overview of algorithm
 
 A computer is good at doing two things, and two things only:
