@@ -364,3 +364,8 @@ understand, but the program runs much faster.
 
 Do you feel why we need algorithm now?
 <br/>Can you research more effective algorithms for this problem?
+
+
+Your turn: Solve all top interview questions (easy level)
+
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/
